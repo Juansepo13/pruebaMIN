@@ -1,0 +1,2 @@
+# pruebaMIN
+ mintic
